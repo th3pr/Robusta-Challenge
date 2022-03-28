@@ -17,6 +17,7 @@ Add the database credentials in .env file.
 then using IDE Command type:
 
     php artisan migrate
+    
     php artisan serve
 
 and I will upload the postman end point collection.
