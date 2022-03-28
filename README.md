@@ -16,7 +16,7 @@ Create Database using phpmyadmin.
 Add the database credentials in .env file.
 then using IDE Command type:
 
-    php artisan migrate
+    php artisan migrate:fresh --seed
     
     php artisan serve
 
